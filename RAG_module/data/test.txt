@@ -1,0 +1,9 @@
+RAG stands for Retrieval Augmented Generation.
+
+A RAG system retrieves relevant documents before sending context to the language model.
+
+Qdrant is a vector database.
+
+LlamaIndex is a framework for building RAG systems.
+
+Gemini is a large language model developed by Google.

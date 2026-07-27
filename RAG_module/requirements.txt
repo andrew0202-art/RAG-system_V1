@@ -1,0 +1,10 @@
+llama-index
+llama-index-readers-file
+llama-index-embeddings-google-genai
+llama-index-vector-stores-qdrant
+google-genai
+groq
+qdrant-client
+rank_bm25
+sentence-transformers
+jieba
