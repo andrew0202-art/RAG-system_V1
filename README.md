@@ -21,7 +21,7 @@
 ## 系統參數
 
 - 外部文件：約 180 萬字，來自 7 份文件（745 頁）
-- chunk_size = 550, chunk_overlap = 120
+- chunk_size = 550, chunk_overlap = 150
 - embedding_model = `BAAI/bge-m3`（1024 維）
 - top_k = 12, reranker_top_k = 8
 - reranker_model = `cross-encoder/ms-marco-MiniLM-L-6-v2`
